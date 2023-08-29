@@ -1,0 +1,8 @@
+/* PLACE YOUR CUSTOM STYLES IN THIS FILE */
+.pg_ic{width:40px;}
+.pdpstyle{ padding-right: 15%; }
+
+
+@media (max-width: 991px) { 
+.pdpstyle{ padding-right: 0; }
+ }
